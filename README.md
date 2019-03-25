@@ -1,6 +1,8 @@
 # vue中$refs、$emit、$on的使用
 
-> A Vue.js project
+> $refs 父组件调用子组件的方法并传递数据
+> $emit 子组件调用父组件的方法并传递数据
+> $on 兄弟组件之间相互传递数据
 
 ## Build Setup
 
